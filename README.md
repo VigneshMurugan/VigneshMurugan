@@ -1,11 +1,3 @@
-github profile markdown generator logo
-Github Profile Readme Generator
- Star this repo
- Fork on Github
- back to edit
- copy-markdown
- download
- preview
 <h1 align="center">Hi 👋, I'm Vignesh Murugan</h1>
 <h3 align="center">Full Stack developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vigneshmurugan" alt="vigneshmurugan" /> </p>
@@ -25,4 +17,3 @@ Github Profile Readme Generator
 <a href="https://linkedin.com/in/iamvigneshmurugan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="iamvigneshmurugan" height="20" width="20" /></a>
 <a href="https://fb.com/iamvigneshmurgan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="iamvigneshmurgan" height="20" width="20" /></a>
 </p>
-Developed with ❤️ by Rahul
