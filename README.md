@@ -4,11 +4,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/VigneshMurugan](https://github.com/VigneshMurugan)
 
-- 💬 Ask me about **javascript, react**
+- 💬 Ask me about **javascript, react, html**
 
 - 📫 How to reach me **vignesh328@gmail.com**
-
-- ⚡ Fun fact **I talk a lot**
 
 <p align="center">	
 <a href="https://twitter.com/visumurugan" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="visumurugan" height="20" width="20" /></a>	
